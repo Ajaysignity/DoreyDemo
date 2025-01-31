@@ -1,0 +1,1101 @@
+.assets_rtable .uk-table th,
+.radio_btns label,
+.update_inner a,
+body .allowcator_table th {
+    text-transform: capitalize;
+}
+
+.info_form label {
+    width: 240px;
+    font-size: 14px;
+}
+
+body .client_info {
+    margin-left: 0;
+}
+
+.client_info .padding_right {
+    padding-right: 15px;
+}
+
+body .blue_btn {
+    background-color: #3184df;
+    color: #fff;
+}
+
+body .yellow_btn {
+    background-color: #ebb800;
+    color: #fff;
+}
+
+.double_btns button,
+.double_btns select {
+    max-width: 210px;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.double_btns {
+    text-align: left;
+    display: inline-block;
+    float: right;
+}
+
+.solution_form {
+    background: #f2f2f2;
+    padding: 15px;
+    border: 1px solid #3184df;
+    list-style: none;
+    z-index: 99;
+    position: relative;
+}
+
+.solution_form input,
+.solution_form select {
+    position: relative;
+    border: 1px solid #bfbfbf;
+}
+
+.solution_form li>span {
+    position: absolute;
+    right: 10px;
+    top: 6px;
+}
+
+.solution_form .uk-margin {
+    position: relative;
+    margin-bottom: 0;
+    align-items: center;
+}
+
+.info_form h6 {
+    margin: 15px 0;
+    font-weight: 700;
+    color: #666;
+    font-size: 16px;
+}
+
+body .white_btn {
+    background-color: #fff;
+}
+
+.dash_sidebar .uk-navbar-item a.active,
+.dash_sidebar .uk-navbar-item a:hover {
+    background: #415565;
+    color: #ebb800;
+}
+
+.dash_sidebar .uk-navbar-item .chart_icon.active path {
+    fill: #ebb800;
+}
+
+.dash_sidebar .uk-navbar-item a svg {
+    width: 24px;
+}
+
+body .goal_btn {
+    border-radius: 15px;
+    font-weight: 600;
+    line-height: 18px;
+    padding: 5px !important;
+    margin-top: 8px !important;
+    width: 100% !important;
+}
+
+.dash_sidebar {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.export_data button {
+    width: 96%;
+    padding: 5px;
+    line-height: 24px;
+    margin: 0 2%;
+}
+
+.solution_form span a:nth-child(2) {
+    margin: 0 8px;
+}
+
+.invest_grid .uk-accordion-content,
+body .salary_grid {
+    margin-top: 10px;
+}
+
+.info_form .salary_grid label {
+    width: 100px;
+}
+
+body .salary_grid .differ_width,
+tr input {
+    width: 60px;
+}
+
+body .salary_grid .cc_btns {
+    width: 100%;
+    margin-top: 8px;
+}
+
+.uk-input.active_input,
+body .active_inputfields input,
+body .active_inputfields select {
+    border-color: #1e88e5;
+}
+
+body .invest_grid {
+    padding: 0 30px 0 10px;
+    width: 98.5%;
+}
+
+.allocator_form,
+.allocator_graph img,
+.assets_rtable,
+.invest_grid li,
+.invest_grid>div,
+.slider_range,
+.table,
+.uk-notification.uk-notification-top-left {
+    width: 100%;
+}
+
+body .info_form .invest_Strategy label {
+    width: auto;
+    font-size: 16px;
+}
+
+.invest_grid li a {
+    font-size: 15px;
+    color: #9c9c9c;
+}
+
+.invest_grid ul li,
+.invest_li {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #bfbfbf;
+    margin-top: 10px !important;
+}
+
+.invest_grid .uk-accordion-content p {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.rating_area p {
+    margin: 0;
+}
+
+.rating_area .blue_btn {
+    font-size: 12px;
+    color: #fff;
+    padding: 0 10px;
+    line-height: 24px;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table th {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+tr.blue_bg {
+    background: #7899cb;
+    color: #fff;
+}
+
+.color-area {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #fff;
+    background: red;
+    border-radius: 5px;
+}
+
+.defaultcolor-area {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #999;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.table td,
+.table th {
+    padding: 5px 2px;
+}
+
+.allocatorformpopup.active .uk-icon,
+.blue_bg td a,
+.freestructuregridcashflow_table input,
+.freestructuregridcashflow_table select,
+.investmentcashflowrowTable td a,
+.light_green td svg,
+.projectioneventgridcashflow_table .uk-icon,
+.projectioneventgridcashflow_table select {
+    color: #fff;
+}
+
+.table th svg {
+    width: 12px;
+    height: 12px;
+    margin-left: 4px;
+    color: #000;
+}
+
+tr.light_green {
+    background: #7fb3b3;
+    color: #fff;
+    font-size: 14px;
+}
+
+.cashflow_table tr td:first-child {
+    display: flex;
+    min-width: 100px;
+}
+
+.investmentcashflowrowTable td,
+.investmentcashflowrowTable th {
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 12px;
+}
+
+.investmentcashflowrowTable tbody tr {
+    border-bottom: 5px solid #fff;
+}
+
+.InvestmentStrategycashflow_table .plus_symbol,
+.center_head,
+.dash_sidebar .uk-navbar-item a,
+.investmentcashflowrowTable td:nth-child(2),
+.investmentcashflowrowTable th:nth-child(2),
+.investmentcashflowrowTableCommon td:nth-child(2),
+.investmentcashflowrowTableCommon th:nth-child(2) {
+    text-align: center;
+}
+
+.info_form .goal_seek label {
+    max-width: 100px;
+    width: 100%;
+}
+
+.solution_form .margint0 {
+    margin-top: 0 !important;
+}
+
+.goal_seek input,
+.goal_seek select {
+    width: calc(100% - 100px) !important;
+}
+
+.solution_form.goal_seek {
+    background: #fff2cc;
+    border-color: #f2f2f2;
+}
+
+.dash_sidebar .uk-navbar-item .chart_icon:hover svg path {
+    fill: #ebb800 !important;
+}
+
+.searchpopup .uk-modal-dialog {
+    width: 800px;
+}
+
+.folder_search table {
+    display: inline-block;
+    margin: 0 !important;
+}
+
+.folder_search tbody {
+    padding: 0;
+    width: 100%;
+    max-height: 280px !important;
+}
+
+.folder_search tbody tr,
+.folder_search thead,
+.folder_search thead tr {
+    width: 100%;
+    display: inline-block;
+}
+
+.searchpopup .uk-modal-header {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.searchpopup .uk-modal-body {
+    padding-top: 15px;
+}
+
+.folder_search tbody td:first-child,
+.folder_search thead th:first-child {
+    width: 300px !important;
+    text-align: left !important;
+}
+
+.searchpopup .uk-close {
+    top: 20px !important;
+    right: 30px;
+}
+
+.double_btns .blue_btn {
+    background-image: url(./../images/drop-icon.png) !important;
+    background-repeat: no-repeat;
+    background-position: 165px center !important;
+}
+
+.double_btns .blue_btn:focus {
+    background-image: url(./../images/drop-hover.png) !important;
+}
+
+.double_btns select {
+    padding-left: 20px;
+}
+
+.invest_li a {
+    font-size: 15px;
+    color: #999;
+}
+
+.cashflowsoltion-dashboard input[readonly] {
+    background-color: #fbfbfb !important;
+}
+
+.freestructuregridcashflow_table select,
+.investmentcashflowrowTable select,
+.projectioneventgridcashflow_table select {
+    background-image: url(../images/white-arrow.svg) !important;
+}
+
+.solutionsettingsinfoform li label {
+    margin-bottom: 10px;
+}
+
+tr.light_grey {
+    background: #697d8a;
+    color: #fff;
+    font-size: 14px;
+}
+
+.investmentcashflowrowTable input,
+.investmentcashflowrowTable select,
+.investmentcashflowrowTableCommon input,
+.investmentcashflowrowTableCommon select {
+    border: none;
+}
+
+.selecthideicon {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: "";
+}
+
+.investmentcashflowrowTable input,
+.investmentcashflowrowTable input:focus,
+.investmentcashflowrowTable select,
+.investmentcashflowrowTable select:focus {
+    padding: 0 !important;
+    background-color: transparent;
+    height: auto !important;
+    font-size: 12px;
+    color: #fff;
+}
+
+.TextwhiteColor input,
+.TextwhiteColor select,
+.TextwhiteColor td,
+.freestructuregridcashflow_table a.uk-icon {
+    color: #fff !important;
+}
+
+.amount_field select,
+.info_select select {
+    background-image: none !important;
+}
+
+.investmentcashflowrowTable input[readonly],
+.investmentcashflowrowTableCommon input[readonly] {
+    background-color: transparent !important;
+}
+
+.amount_field {
+    display: inline-flex;
+    align-items: center;
+    width: 90px;
+}
+
+.goal_icon,
+.pot_actions a,
+.radio_btns label,
+.update_inner,
+td>a.selectedRating {
+    display: inline-block;
+}
+
+.goal_icon {
+    width: 100%;
+    padding-left: 20px !important;
+}
+
+.investmentcashflowrowTable th:nth-child(3) {
+    width: 90px;
+}
+
+.amount_field select {
+    width: 20px;
+}
+
+.investmentcashflowrowTable {
+    width: 1233px;
+}
+
+.potcolorcode {
+    border-radius: 4px;
+    width: 25px;
+    padding: 0;
+    height: 25px;
+    border: 1px solid #bfbfbf !important;
+}
+
+.pot_actions {
+    display: flex;
+    align-items: center;
+}
+
+.investmentcashflowrowTableCommon td,
+.investmentcashflowrowTableCommon th {
+    padding-right: 8px;
+    padding-left: 8px;
+    border-bottom: 1px solid #fff;
+    font-size: 14px;
+}
+
+.investmentcashflowrowTableCommon input,
+.investmentcashflowrowTableCommon input:focus,
+.investmentcashflowrowTableCommon select,
+.investmentcashflowrowTableCommon select:focus {
+    padding: 0 !important;
+    background-color: transparent;
+    height: auto !important;
+    font-size: 14px;
+}
+
+select.extrapadding {
+    padding-left: 10px !important;
+}
+
+td>a.selectedRating {
+    padding: 2px 8px;
+    border-radius: 8px;
+    background: #697d8a;
+    color: #fff;
+}
+
+.InvestmentStrategycashflow_table td {
+    border-bottom: 1px solid #fff;
+    padding: 0;
+    font-size: 14px;
+}
+
+.projectionrating ul li {
+    background: #fff;
+    padding: 0;
+    border: none;
+    margin-top: 0 !important;
+}
+
+.investmentcashflowrowTableCommon td.addothercolsbefore,
+.investmentcashflowrowTableCommon th.addothercolsbefore {
+    text-align: right;
+}
+
+.investmentcashflowrowTableCommon .shiftArrow1 {
+    display: inline-block;
+    font-size: 1.8em;
+    margin-bottom: 0;
+    margin-right: -7px;
+}
+
+td>a.selectedRating:hover {
+    text-decoration: none;
+}
+
+.custom_background {
+    background: linear-gradient( 180deg, #fff calc(50% - 2px), #ddd calc(50% - 2px), #ddd calc(50%), #ddd calc(50% + 2px), #fff calc(50% + 2px));
+}
+
+.plus_symbol .selectedRating {
+    min-width: 15px;
+    text-align: center;
+    padding: 4px 5px;
+    line-height: initial;
+    color: #fff;
+}
+
+.plus_symbol .selectedRating svg {
+    width: 12px;
+    height: 12px;
+}
+
+select.uk-select.idGoalSeekRealNominal {
+    width: 100% !important;
+}
+
+.InvestmentStrategycashflow_table .node_select {
+    background-image: none !important;
+    width: auto;
+}
+
+.investmentstrategy_lists .uk-nav p {
+    margin: 0;
+    text-align: left;
+}
+
+.investmentstrategy_lists .uk-nav-header {
+    font-weight: 600;
+    font-size: 16px !important;
+}
+
+.pot_btns {
+    display: inline-flex;
+    float: none;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.pot_btns select {
+    width: auto !important;
+    max-width: auto !important;
+    padding-left: 10px;
+}
+
+.pot_btns .graphinvestmentpotdropdown {
+    display: inline-flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.display_view,
+.over_view {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex_btns,
+.radio_option .d-flex {
+    display: flex;
+}
+
+.display_view {
+    margin-right: 10px;
+}
+
+.pot_btns .blue_btn {
+    background-position: 100% 50% !important;
+}
+
+.pot_btns label {
+    font-weight: 600;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.cashflowprojection_sectionarea {
+    display: inline-flex;
+    align-items: center;
+}
+
+.chartprojectiontypedropdown {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.radio_btns {
+    margin: 0 !important;
+}
+
+.radio_inline {
+    flex-wrap: nowrap !important;
+}
+
+.radio_inline label {
+    width: auto;
+}
+
+.radio_btns label {
+    background: #415565;
+    color: #fff;
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0;
+}
+
+.radio_btns input {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+    opacity: 0;
+    height: 100%;
+    z-index: 1;
+}
+
+.radio_btns .flow_brand {
+    padding: 0;
+    position: relative;
+    margin-left: 8px;
+}
+
+.flow_brand input[type="radio"]:checked+label {
+    background: grey;
+    color: #fff;
+}
+
+.outer_fdiv {
+    display: inline-flex;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.outer_fdiv .info_form {
+    width: 35%;
+}
+
+.allocatorformpopup.active:hover {
+    background-color: #4b830d !important;
+}
+
+.assetallocator-dashboard .info_form h6 {
+    margin: 20px 0 8px;
+}
+
+.assetallocator-dashboard .solution_form {
+    margin-top: 0;
+}
+
+.allocatorbasicinfoform .cc_btns {
+    margin-top: 20px !important;
+}
+
+.allocatorbasicinfoform.info_form label {
+    width: 375px;
+}
+
+.allocatorbasicinfoform .solution_form li {
+    margin-top: 10px !important;
+}
+
+.allowcator_table td,
+.allowcator_table th {
+    text-align: center;
+    border: 1px solid #ddd;
+    text-transform: capitalize;
+    vertical-align: middle !important;
+}
+
+.allowcator_table th {
+    font-weight: 600;
+    color: #000;
+}
+
+body .allowcator_table th {
+    font-weight: 600;
+    color: #000;
+    padding: 8px 15px;
+}
+
+.allow_board {
+    max-width: 87%;
+    width: 100%;
+}
+
+.allowcator_table td input {
+    border: 0;
+    background: #fff;
+    text-align: center;
+}
+
+.allowcator_table td {
+    padding: 10px 15px;
+    background: #fff;
+}
+
+.allowcator_table .main_value {
+    background: 0 0;
+    font-weight: 600;
+    color: #000;
+}
+
+.allowcator_table td input:focus-visible {
+    outline: 0;
+}
+
+.assets_rtable td,
+.assets_rtable th {
+    border: 1px solid #ddd;
+    color: #000 !important;
+}
+
+.assets_rtable tbody td:first-child,
+.assets_rtable th {
+    background: #ededed;
+    text-align: left;
+}
+
+.return_radio {
+    position: relative;
+}
+
+.return_box {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.radio_option .radio_btns label {
+    background: #ededed;
+    color: #000;
+    width: 100px;
+    text-align: center;
+}
+
+.return_radio:first-child {
+    margin-right: 10px !important;
+}
+
+.select_option select {
+    width: 250px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.radio_option input[type="radio"]:checked+label {
+    background: #4b830d;
+    color: #fff;
+}
+
+.allowcator_table tr td:first-child {
+    text-align: left;
+}
+
+.period_selector .return_radio {
+    margin-right: 5px !important;
+}
+
+.radio_option {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.radio_option h4 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+.return_graph img {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.hideshow_btn label {
+    width: auto !important;
+}
+
+.hideshow_btn {
+    position: absolute;
+    top: 0;
+    right: 3px;
+}
+
+.allow_board .uk-table td {
+    padding: 7px 5px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.allowcator_table tr td:first-child,
+.assets_rtable .main_value {
+    font-size: 12px;
+}
+
+.infoPopupdetailPieChart,
+.infoPopupdetailPieChart .PotHeaderRow {
+    font-size: 13px;
+    text-align: center;
+}
+
+.perform_drop {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.perform_drop h4 {
+    margin: 0 10px 0 0;
+    font-size: 16px;
+}
+
+select:focus {
+    outline: 0;
+}
+
+.perform_drop select {
+    max-width: 430px;
+    width: 100%;
+}
+
+.top_brand {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top_brand p {
+    margin: 0;
+    width: 60%;
+}
+
+.update_inner a {
+    padding: 0 15px;
+}
+
+.graph_drop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.AssetClassesAllocationTableGrid thead th:first-child {
+    min-width: 175px;
+}
+
+.AssetClassesAllocationTableGrid td input {
+    height: auto !important;
+}
+
+img#finacial-loader-image {
+    width: 160px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.infoPopupdetailPieChart {
+    padding: 20px 16px !important;
+}
+
+.cashflowsoltion-dashboard {
+    padding-bottom: 344px !important;
+}
+
+.investmentstrategy_lists .uk-nav p {
+    padding: 0;
+}
+
+.investmentstrategy_lists .uk-nav p a {
+    display: flex;
+    padding: 6px 10px;
+    font-weight: 500;
+}
+
+.investmentstrategy_lists .uk-nav p a.selected,
+.investmentstrategy_lists .uk-nav p a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.uk-notification.uk-notification-top-center {
+    width: 90%;
+    left: 15%;
+}
+
+.uk-notification-message-warning>div {
+    font-size: 14px;
+}
+
+.groupnames td {
+    background: #dbeeff !important;
+    color: #000;
+}
+
+.subgroupnames td:first-child {
+    background: #eff7fe !important;
+    color: #000;
+    padding-left: 20px !important;
+}
+
+table.uk-table-small tfoot {
+    background-color: rgb(30 136 229) !important;
+}
+
+.uk-table-hover tbody tr.subgroupnames:hover,
+.uk-table-hover>tr.subgroupnames:hover {
+    background: #eff7fe;
+}
+
+.Standrad_TypeTable tbody tr:nth-of-type(odd) td:first-child,
+.Standrad_TypeTable.uk-table-hover tbody tr:nth-of-type(odd):hover,
+.Standrad_TypeTable>tr:nth-of-type(odd) td:first-child,
+.Standrad_TypeTable>tr:nth-of-type(odd):hover {
+    background: #dbeeff;
+    color: #000;
+}
+
+.Standrad_TypeTable.uk-table-hover tbody tr:nth-of-type(2n):hover,
+.Standrad_TypeTable>tr:nth-of-type(2n):hover,
+.uk-table-striped.Standrad_TypeTable tbody tr:nth-of-type(2n) td:first-child,
+.uk-table-striped.Standrad_TypeTable>tr:nth-of-type(2n) td:first-child {
+    background: #eff7fe;
+    color: #000;
+}
+
+@media only screen and (min-width: 1920px) {
+    .allow_board {
+        max-width: 92%;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    .table td,
+    .table th,
+    tr.light_green {
+        font-size: 12px;
+    }
+    .radio_option .radio_btns label {
+        width: auto;
+        padding: 5px 20px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .dash_sidebar {
+        max-width: 85px !important;
+    }
+    .allow_board {
+        max-width: 80%;
+    }
+    .update_inner a {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 1101px) and (max-width: 1199px) {
+    .allocator_form {
+        max-width: 930px;
+        width: 100%;
+    }
+    body .allowcator_table th {
+        width: 90px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 90px;
+    }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1100px) {
+    .allocator_form {
+        max-width: 850px;
+        width: 100%;
+    }
+    body .allowcator_table th {
+        width: 90px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 90px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .allocator_form {
+        max-width: 800px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .update_inner {
+        display: inline-block;
+        margin-top: 15px;
+    }
+    .top_brand {
+        display: block;
+    }
+    .allocator_form {
+        width: 600px;
+    }
+    .top_brand p {
+        width: 100%;
+    }
+    footer.uk-navbar {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    footer .uk-navbar-nav>li>a {
+        padding: 0 10px !important;
+    }
+}
+
+@media only screen and (max-width: 849px) {
+    .dash_sidebar {
+        max-width: 85px !important;
+    }
+    .dashboard_content {
+        width: 88% !important;
+    }
+}
+
+@media only screen and (max-width: 708px) {
+    .dashboard_content {
+        width: 85% !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    footer.uk-navbar {
+        display: block;
+    }
+    body .footer_logo {
+        font-size: 26px;
+    }
+    footer ul.uk-navbar-nav {
+        display: block;
+    }
+    footer .uk-navbar-nav>li>a {
+        padding: 10px 0 !important;
+        min-height: auto;
+        justify-content: flex-start;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .dashboard_content {
+        width: 78% !important;
+    }
+    header .uk-navbar-item img {
+        width: 120px;
+    }
+    header .uk-navbar-right {
+        margin-left: 0;
+    }
+}

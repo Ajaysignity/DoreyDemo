@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_03" data-name="03" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 460">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: url(#jtc_grad);
+        stroke-linecap: round;
+        stroke-miterlimit: 4.57143;
+        stroke-width: 9.31664px;
+      }
+
+      .cls-2 {
+        fill: url(#jtc_grad-2);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="jtc_grad" data-name="jtc grad" x1="99.17342" y1="332.61835" x2="699.59364" y2="332.61835" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#019dcd"/>
+      <stop offset="1" stop-color="#c2207e"/>
+    </linearGradient>
+    <linearGradient id="jtc_grad-2" data-name="jtc grad" x1="99.17342" y1="242.21382" x2="699.59363" y2="242.21382" xlink:href="#jtc_grad"/>
+  </defs>
+  <line class="cls-1" x1="103.83174" y1="424.2673" x2="675.83588" y2="240.96941"/>
+  <polygon class="cls-2" points="676.20508 255.4845 694.93573 234.85031 667.69995 228.94315 676.20508 255.4845"/>
+</svg>

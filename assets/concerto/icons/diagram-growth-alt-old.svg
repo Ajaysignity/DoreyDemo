@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 700 460">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-4);
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 6px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+        stroke-miterlimit: 4.6;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke: url(#linear-gradient-6);
+      }
+
+      .cls-5 {
+        stroke: url(#linear-gradient-9);
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        stroke: url(#linear-gradient-8);
+      }
+
+      .cls-7 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-7, .cls-10, .cls-11, .cls-12 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .cls-7, .cls-8 {
+        stroke-linecap: square;
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-8 {
+        stroke: url(#linear-gradient-10);
+        stroke-width: 7px;
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-9 {
+        stroke: #21578a;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="169.4" y1="272.3" x2="414.3" y2="272.3" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21578a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ebb800"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="477.8" y1="456.7" x2="477.8" y2="86.4" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="495.7" y1="350.7" x2="495.7" y2="193.9" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="150.6" y1="337.6" x2="449.2" y2="337.6" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21578a"/>
+      <stop offset="1" stop-color="#ebb800"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="150.6" y1="439.4" x2="449.2" y2="439.4" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21578a"/>
+      <stop offset="1" stop-color="#ebb800"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="150.6" y1="142.5" x2="449.2" y2="142.5" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="150.6" y1="95.7" x2="449.2" y2="95.7" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="152.1" y1="287.4" x2="458" y2="287.4" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21578a"/>
+      <stop offset="1" stop-color="#ebb800"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="152.1" y1="197.7" x2="458" y2="197.7" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="456.5" y1="460.2" x2="456.5" y2="82.9" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="456.5" y1="460.2" x2="456.5" y2="82.9" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" x1="456.5" y1="460.2" x2="456.5" y2="82.9" gradientTransform="translate(0 462) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebb800"/>
+      <stop offset="1" stop-color="#21578a"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="base">
+      <polygon class="cls-12" points="456.5 268.1 153.6 260.5 153.6 237.9 456.5 111.3 456.5 268.1"/>
+      <path class="cls-11" d="M456.5,375.6c23.5,0,42.6-82.9,42.6-185.1S480.1,5.3,456.5,5.3v370.3h0Z"/>
+      <path class="cls-10" d="M456.5,268.1c43.3,0,78.4-35.1,78.4-78.4s-35.1-78.4-78.4-78.4v156.8Z"/>
+      <line class="cls-7" x1="456.5" y1="11.8" x2="456.5" y2="424"/>
+      <g>
+        <line class="cls-3" x1="435.7" y1="22" x2="153.6" y2="226.7"/>
+        <polygon class="cls-2" points="428.3 16.3 446.2 14.4 438.9 30.8 428.3 16.3"/>
+      </g>
+      <line class="cls-9" x1="456.5" y1="189.7" x2="153.6" y2="249.2"/>
+      <g>
+        <line class="cls-4" x1="433.9" y1="367.2" x2="153.6" y2="271.8"/>
+        <polygon class="cls-1" points="434.3 357.8 446.2 371.3 428.6 374.8 434.3 357.8"/>
+      </g>
+      <line class="cls-6" x1="456.5" y1="111.3" x2="153.6" y2="237.9"/>
+      <line class="cls-5" x1="456.5" y1="268.1" x2="153.6" y2="260.5"/>
+      <g>
+        <line class="cls-8" x1="456.5" y1="25.4" x2="456.5" y2="355.5"/>
+        <polygon class="cls-13" points="442.6 29.5 456.5 5.3 470.5 29.5 442.6 29.5"/>
+        <polygon class="cls-14" points="442.6 351.4 456.5 375.6 470.5 351.4 442.6 351.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

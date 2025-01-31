@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+* {
+	font-family: 'Raleway', sans-serif;
+}
+h1, h2.uk-modal-title {
+	font-weight: normal;
+	font-weight: 100;
+}
+header, footer {
+	background-color: rgba(66,85,99,1.0)
+}
+section.uk-section {
+	background: url("../pix/bg-01-dark.jpg") center center;
+	background-size: cover;
+	color: white !important;
+}
+section.uk-section div h1, section.uk-section div button, header, header a, footer, footer a {
+	color: white !important
+}
+
+div#swal2-content { margin-top: 5%; }
+.swal2-popup {  font-size: .8rem !important; font-family: 'Raleway', sans-serif !important; }
+div#swal2-content p {margin: 8px 8px 8px 2px !important;}
+.custom-passwordtoolip li {
+    margin-left: -22px;margin-top: 5px;
+    list-style: none;
+}
+
+.formblank-has-error input {  border: 1px solid #ff0000; }
+form label.error, label.error {
+    color: red;
+    font-size: 12px;
+}
+
+figure.uk-navbar-item {
+    margin-bottom: 0px;
+}
+.uk-navbar-left img {
+    width: 130px;
+}
+
+.finance img {
+    width: 235px;
+}
+
+
+
+.uk-navbar-right li a {
+    margin-top: 10px;
+}
+.finantial figure.uk-navbar-item {
+	margin-bottom: 16px;
+}
+.finance figure.uk-navbar-item {
+    margin-top: 0px!important;
+}
+
+#toTopFromBottom {
+  display: inline-block;
+  background-color: #ebb800;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#toTopFromBottom::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 50px;
+  color: #fff;
+}
+#toTopFromBottom:hover {
+  cursor: pointer;
+  background-color: #333;
+  text-decoration: none;
+}
+#toTopFromBottom:active {
+  background-color: #555;
+}
+#toTopFromBottom.show {
+  opacity: 1;
+  visibility: visible;
+}

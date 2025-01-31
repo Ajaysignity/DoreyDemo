@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_05_base" data-name="05_base" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 460">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 4.57143;
+        stroke-width: 6px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="205.47537" y1="56.22684" x2="276.95074" y2="56.22684" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#019dcd"/>
+      <stop offset="1" stop-color="#c2207e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="205.47537" y1="50.24711" x2="276.95074" y2="50.24711" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="140" y1="53.09485" x2="211.47537" y2="53.09485" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="140" y1="59.07458" x2="211.47537" y2="59.07458" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <line class="cls-1" x1="261.41989" y1="49.61031" x2="208.47537" y2="62.84336"/>
+    <polygon class="cls-4" points="256.69592 41.54043 273.95053 46.47747 261.04825 58.95378 256.69592 41.54043"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="195.94453" y1="59.71138" x2="143" y2="46.47832"/>
+    <polygon class="cls-3" points="195.57289 50.3679 208.47559 62.84251 191.22057 67.78125 195.57289 50.3679"/>
+  </g>
+</svg>
